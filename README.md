@@ -23,23 +23,12 @@ store_index.py
 templates.py
 Data/
     Medical_book.pdf
-medical_chatbot.egg-info/
-    dependency_links.txt
-    PKG-INFO
-    SOURCES.txt
-    top_level.txt
 research/
     trials.ipynb
 src/
     __init__.py
     helper.py
     prompt.py
-    __pycache__/
-        __init__.cpython-310.pyc
-        __init__.cpython-313.pyc
-        helper.cpython-310.pyc
-        helper.cpython-313.pyc
-        prompt.cpython-310.pyc
 static/
     style.css
 templates/
