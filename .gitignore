@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Build/egg-info
+*.egg-info/
+
+# System files
+.DS_Store
